@@ -1,0 +1,7 @@
+2023-03-07 10:00:25.653 [info] Started initializing default profile extensions in extensions installation folder. file:///home/usuario/.vscode/extensions
+2023-03-07 10:00:27.872 [info] Starting worker process with pid 5466 (type: fileWatcher, window: 1).
+2023-03-07 10:00:28.268 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/usuario/.vscode/extensions Unable to create file 'vscode-userdata:/home/usuario/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2023-03-07 10:00:28.297 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/usuario/.vscode/extensions
+2023-03-07 10:00:31.638 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-07 10:00:46.730 [info] Worker process with pid 5466 terminated normally (type: fileWatcher, window: 1).
+2023-03-07 10:00:49.193 [info] Starting worker process with pid 5522 (type: fileWatcher, window: 1).
