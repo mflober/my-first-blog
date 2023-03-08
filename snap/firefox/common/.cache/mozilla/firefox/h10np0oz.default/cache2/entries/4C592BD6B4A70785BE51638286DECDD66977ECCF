@@ -1001,17 +1001,17 @@ input[type="submit"], button {
         word-break: break-word;
     }
 }
-»Μι‚      ddEU}d   c    O^partitionKey=%28http%2C127.0.0.1%2C8000%29,:http://127.0.0.1:8000/static/admin/css/responsive.css necko:classified 1 strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
-Date: Tue, 07 Mar 2023 11:03:49 GMT
+OΑ•ι‚           d=eEVG|dή‰   c    O^partitionKey=%28http%2C127.0.0.1%2C8000%29,:http://127.0.0.1:8000/static/admin/css/responsive.css strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
+Date: Wed, 08 Mar 2023 07:46:45 GMT
 Server: WSGIServer/0.2 CPython/3.10.6
 Content-Type: text/css
 Content-Length: 18545
 Content-Disposition: inline; filename="responsive.css"
 Last-Modified: Fri, 03 Mar 2023 13:11:21 GMT
- original-response-headers Date: Tue, 07 Mar 2023 11:03:49 GMT
+ original-response-headers Date: Wed, 08 Mar 2023 07:46:45 GMT
 Server: WSGIServer/0.2 CPython/3.10.6
 Content-Type: text/css
 Content-Length: 18545
 Content-Disposition: inline; filename="responsive.css"
 Last-Modified: Fri, 03 Mar 2023 13:11:21 GMT
- ctid 5 uncompressed-len 0 net-response-time-onstart 127 net-response-time-onstop 128   Hq
+ ctid 5 uncompressed-len 0 net-response-time-onstart 116 net-response-time-onstop 116   Hq
