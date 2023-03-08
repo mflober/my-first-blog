@@ -572,13 +572,13 @@ select + .related-widget-wrapper-link,
 .related-widget-wrapper-link + .related-widget-wrapper-link {
     margin-left: 7px;
 }
-}xn<*'      d¥d¥EU}ódž¶   `    O^partitionKey=%28http%2C127.0.0.1%2C8000%29,:http://127.0.0.1:8000/static/admin/css/widgets.css necko:classified 1 strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
-Date: Tue, 07 Mar 2023 11:06:13 GMT
-Server: WSGIServer/0.2 CPython/3.10.6
+|¿Õ*'      dHdHEVàwdêÁ   `    O^partitionKey=%28http%2C127.0.0.1%2C8000%29,:http://127.0.0.1:8000/static/admin/css/widgets.css necko:classified 1 strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
 Content-Type: text/css
 Content-Length: 11097
 Content-Disposition: inline; filename="widgets.css"
 Last-Modified: Fri, 03 Mar 2023 13:11:21 GMT
+Date: Wed, 08 Mar 2023 08:34:09 GMT
+Server: WSGIServer/0.2 CPython/3.10.6
  original-response-headers Date: Tue, 07 Mar 2023 11:06:13 GMT
 Server: WSGIServer/0.2 CPython/3.10.6
 Content-Type: text/css

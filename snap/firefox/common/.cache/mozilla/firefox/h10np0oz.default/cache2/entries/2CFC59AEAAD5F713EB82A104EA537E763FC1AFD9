@@ -219,17 +219,17 @@ depends on core.js for utility functions like removeChildren or quickElement
     window.Calendar = Calendar;
     window.CalendarNamespace = CalendarNamespace;
 }
-iµ!Ò/      d¥d¥EU}ódž¶   _    O^partitionKey=%28http%2C127.0.0.1%2C8000%29,:http://127.0.0.1:8000/static/admin/js/calendar.js necko:classified 1 strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
-Date: Tue, 07 Mar 2023 11:06:13 GMT
+øz…/      dHµdH¯EWÂdêÁ   _    O^partitionKey=%28http%2C127.0.0.1%2C8000%29,:http://127.0.0.1:8000/static/admin/js/calendar.js strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
+Date: Wed, 08 Mar 2023 08:34:09 GMT
 Server: WSGIServer/0.2 CPython/3.10.6
 Content-Type: text/javascript
 Content-Length: 8466
 Content-Disposition: inline; filename="calendar.js"
 Last-Modified: Fri, 03 Mar 2023 13:11:21 GMT
- original-response-headers Date: Tue, 07 Mar 2023 11:06:13 GMT
+ original-response-headers Date: Wed, 08 Mar 2023 08:34:09 GMT
 Server: WSGIServer/0.2 CPython/3.10.6
 Content-Type: text/javascript
 Content-Length: 8466
 Content-Disposition: inline; filename="calendar.js"
 Last-Modified: Fri, 03 Mar 2023 13:11:21 GMT
- ctid 2 uncompressed-len 0 net-response-time-onstart 59 net-response-time-onstop 59   !
+ ctid 2 uncompressed-len 0 net-response-time-onstart 74 net-response-time-onstop 81 necko:classified 1   !

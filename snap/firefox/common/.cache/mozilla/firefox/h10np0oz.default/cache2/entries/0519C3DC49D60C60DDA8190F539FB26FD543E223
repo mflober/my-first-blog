@@ -413,17 +413,17 @@
     window.addEventListener('load', DateTimeShortcuts.init);
     window.DateTimeShortcuts = DateTimeShortcuts;
 }
-”æh\W      d•d•EU}Ûdû∂   n    O^partitionKey=%28http%2C127.0.0.1%2C8000%29,:http://127.0.0.1:8000/static/admin/js/admin/DateTimeShortcuts.js necko:classified 1 strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
-Date: Tue, 07 Mar 2023 11:06:13 GMT
+|˙Åb\W      dHµdHØEW¬dÍ¡   n    O^partitionKey=%28http%2C127.0.0.1%2C8000%29,:http://127.0.0.1:8000/static/admin/js/admin/DateTimeShortcuts.js strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
+Date: Wed, 08 Mar 2023 08:34:09 GMT
 Server: WSGIServer/0.2 CPython/3.10.6
 Content-Type: text/javascript
 Content-Length: 19634
 Content-Disposition: inline; filename="DateTimeShortcuts.js"
 Last-Modified: Fri, 03 Mar 2023 13:11:21 GMT
- original-response-headers Date: Tue, 07 Mar 2023 11:06:13 GMT
+ original-response-headers Date: Wed, 08 Mar 2023 08:34:09 GMT
 Server: WSGIServer/0.2 CPython/3.10.6
 Content-Type: text/javascript
 Content-Length: 19634
 Content-Disposition: inline; filename="DateTimeShortcuts.js"
 Last-Modified: Fri, 03 Mar 2023 13:11:21 GMT
- ctid 2 uncompressed-len 0 net-response-time-onstart 71 net-response-time-onstop 71   L≤
+ ctid 2 uncompressed-len 0 net-response-time-onstart 112 net-response-time-onstop 114 necko:classified 1   L≤

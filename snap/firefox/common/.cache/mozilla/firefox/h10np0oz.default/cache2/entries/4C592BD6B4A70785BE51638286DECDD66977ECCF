@@ -1001,7 +1001,7 @@ input[type="submit"], button {
         word-break: break-word;
     }
 }
-OÁ•é‚           d=eEVG|dÞ‰   c    O^partitionKey=%28http%2C127.0.0.1%2C8000%29,:http://127.0.0.1:8000/static/admin/css/responsive.css strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
+é¾W’é‚      dHxdHxEW5HdÞ‰   c    O^partitionKey=%28http%2C127.0.0.1%2C8000%29,:http://127.0.0.1:8000/static/admin/css/responsive.css strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
 Date: Wed, 08 Mar 2023 07:46:45 GMT
 Server: WSGIServer/0.2 CPython/3.10.6
 Content-Type: text/css
